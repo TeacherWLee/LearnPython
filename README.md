@@ -1,2 +1,2 @@
-# python_learn_qiyue
-七月Python教程
+# LearnPython
+Python projects for study.
