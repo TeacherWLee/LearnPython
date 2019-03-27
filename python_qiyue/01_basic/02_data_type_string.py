@@ -11,14 +11,25 @@ Python 字符串数据类型
 单引号、双引号、三引号定义字符串
 """
 # ---- 字符串定义 ----
+
 print('hello world')
 print("hello world")
-print('''hello world''')
 print("""hello world""")
 
+
+
+
+
+
+
+# print('hello world')
+# print("hello world")
+# print('''hello world''')
+# print("""hello world""")
+
 # ---- 单引号、双引号为了嵌套方便 ----
-print("Let's go!")
-print('I like "python".')
+# print("Let's go!")
+# print('I like "python".')
 
 # ---- 类型是str ----
 print(type('hello world'))
@@ -51,8 +62,8 @@ world')
 
 # -------- 字符串运算 --------
 # ---- 字符串拼接 ----
-print('Hello ' + 'World')
-print('Hello ' * 3)
+# print('Hello ' + 'World')
+# print('Hello ' * 3)
 
 # ---- 取字符 ----
 print('Hello World'[0])
